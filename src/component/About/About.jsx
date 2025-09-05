@@ -15,11 +15,7 @@ export const About = () => {
           Contact
         </a>
       </div>
-      <img
-        src={getImageUrl("portait/portaitImage.png")}
-        alt="portait"
-        className={styles.portaitImage}
-      />
+    
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section>
